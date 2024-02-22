@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293538350105",
+    "project_id": "ruleta-negocio",
+    "storage_bucket": "ruleta-negocio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293538350105:android:5e7fbd2517371ca1455688",
+        "android_client_info": {
+          "package_name": "com.ramoscorp.ruletafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293538350105-62moor5a5hbv3ce80tsfpnj804csdtou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFrc13V2r_3Aj3YrVRE15i2xCCMFB0-FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293538350105-62moor5a5hbv3ce80tsfpnj804csdtou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
